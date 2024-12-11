@@ -25,8 +25,6 @@ try {
 // Initialize new git repository
 console.log("Initializing new git repository...");
 execSync("git init");
-execSync("git add .");
-execSync("git commit -m 'Initial commit'");
 
 // Install dependencies
 console.log("Installing dependencies...");
