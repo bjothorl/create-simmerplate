@@ -16,10 +16,10 @@
     "fullstack",
     "template"
   ],
-  "author": "Your Name",
+  "author": "bjothorl",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjothorl/simmerplate.git"
+    "url": "git+https://github.com/bjothorl/create-simmerplate.git"
   }
 }
