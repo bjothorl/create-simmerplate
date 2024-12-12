@@ -10,7 +10,7 @@
 - Remove git add/commit commands
 
 1.0.3
-- Fix readme
+- Update homepage url in package.json
 
 1.0.4
-- Fix readme
+- Update readme and fix some logging
