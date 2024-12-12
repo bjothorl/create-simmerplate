@@ -8,3 +8,9 @@
 1.0.2
 - Move create-simmerplate to bin directory
 - Remove git add/commit commands
+
+1.0.3
+- Fix readme
+
+1.0.4
+- Fix readme

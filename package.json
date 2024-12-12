@@ -1,8 +1,7 @@
 {
   "name": "create-simmerplate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create a new Simmerplate project",
-  "main": "index.js",
   "bin": {
     "create-simmerplate": "./bin/create-simmerplate.js"
   },
@@ -20,6 +19,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bjothorl/create-simmerplate.git"
+    "url": "git+https://github.com/bjothorl/simmerplate.git"
   }
 }

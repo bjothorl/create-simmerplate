@@ -6,9 +6,11 @@
 npx create-simmerplate my-project
 ```
 
+[Github for the npx package](https://github.com/bjothorl/create-simmerplate)
+
 ## A bare-minimum fullstack web app boilerplate setup for quick prototyping
 
-Simmerplate sets up everything you need to get started with a fullstack web app. Simply run the commands and start coding.
+[Simmerplate 🍳](https://github.com/bjothorl/simmerplate) sets up everything you need to get started with a fullstack web app. Simply run the commands and start coding.
 
 Javascript files in the `frontend/src/js` directory and CSS files in the `frontend/src/css` directory are bundled by webpack and served as single javascript and css files respectively in the `frontend/dist/js` and `frontend/dist/css` directories.
 
