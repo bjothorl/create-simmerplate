@@ -13,4 +13,7 @@
 - Update homepage url in package.json
 
 1.0.4
-- Update readme and fix some logging
+- Update package name in generated package.json
+- Add git add/commit commands for initial commit
+- Update readme
+- Fix sme logging
